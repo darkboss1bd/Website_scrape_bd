@@ -10,7 +10,7 @@ cd darkboss1bd/Website_scrape_bd
 python darkboss1bd/Website_scrape_bd.py
 ```
 
-(![image](https://i.ibb.co.com/QFdtLSMc/usrbd.png)
+(![image](https://i.postimg.cc/PrPh2gGn/usrbd1.png)
 
 
 # Features of the Tool:
